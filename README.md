@@ -4,8 +4,11 @@ Application Android du projet **RFTG (Raise From The Graveyard)**.
 
 Luigi permet à un client de parcourir un catalogue de films, de les ajouter à son panier et de valider sa location.
 
----
+## Démonstration
 
+<video src="https://github.com/user-attachments/assets/588b8b9a-2e6a-4901-9ff6-dab1914c7a14" controls width="800"></video>
+
+---
 ## Le projet RFTG
 
 RFTG est un système de location de DVD composé de trois applications :
@@ -25,8 +28,8 @@ Toad est l'API REST qui fait le lien entre les applications et la base de donné
 - **Authentification** : JWT dans le header `Authorization: Bearer <token>`
 
 > Liens des dépôts :
-> - Toad (API REST + dump BDD Peach) : *(lien à compléter)*
-> - Mario (Admin Web Laravel) : *(lien à compléter)*
+> - Toad (API REST + dump BDD Peach) : 
+> - Mario (Admin Web Laravel) : https://github.com/Camille-msc/Mario.git
 
 ---
 

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RFTG_MarsacCamille</string>
+
+    <!-- liste des urls du serveur disponibles dans le spinner de connexion -->
+    <string-array name="listeURLs">
+        <item>http://10.0.2.2:8180</item>
+        <item>http://rftg.mtb111.com</item>
+    </string-array>
+
+    <!-- token jwt fourni par l'api toad -->
+    <string name="api_jwt_token">VOTRE_TOKEN_JWT_ICI</string>
+</resources>

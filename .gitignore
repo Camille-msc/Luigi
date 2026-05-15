@@ -1,0 +1,25 @@
+# cache gradle - généré à chaque build
+.gradle/
+
+# dossiers de build
+/build
+app/build/
+
+# chemin du sdk android local - propre à chaque machine
+local.properties
+
+# contient le token jwt - copier strings.xml.example -> strings.xml et renseigner le token
+app/src/main/res/values/strings.xml
+
+# fichiers iml - générés par android studio
+*.iml
+
+# dossier de build capturés
+/captures
+
+# dossier natif si utilisé
+.externalNativeBuild
+.cxx
+
+# fichiers macos
+.DS_Store
